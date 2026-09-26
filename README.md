@@ -75,6 +75,3 @@ The project provides interactive dashboards to analyze **policies, premium reven
 - Payout by Claim Type
 - Claims by Vehicle Brand
 - Claim Impact
-
-Total Claim Payout =
-SUM(Claims[approved_payout])
